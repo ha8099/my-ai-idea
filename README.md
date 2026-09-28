@@ -20,3 +20,4 @@ The problem is a regression task: the inputs (temperature, time, day) are used t
 - Needs accurate historical consumption data, which may be incomplete
 - Unusual events (holidays, breakdowns, extreme heat waves) may reduce prediction accuracy
 - Predictions should support human decisions, not replace them
+## Summary
